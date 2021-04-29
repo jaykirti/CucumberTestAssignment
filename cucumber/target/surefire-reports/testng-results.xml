@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83795" started-at="2021-04-29T23:35:47 IST" finished-at="2021-04-29T23:37:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83795" started-at="2021-04-29T23:35:47 IST" finished-at="2021-04-29T23:37:11 IST">
+      <class name="stepdefinitions.TasksStepDefinition">
+        <test-method status="PASS" signature="openBrowserAndUrl()[pri:0, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="openBrowserAndUrl" duration-ms="23432" started-at="2021-04-29T23:35:47 IST" finished-at="2021-04-29T23:36:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndUrl -->
+        <test-method status="PASS" signature="enterUnamePwd()[pri:1, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="enterUnamePwd" duration-ms="4554" started-at="2021-04-29T23:36:11 IST" finished-at="2021-04-29T23:36:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUnamePwd -->
+        <test-method status="PASS" signature="enterEmail()[pri:2, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="enterEmail" duration-ms="3383" started-at="2021-04-29T23:36:15 IST" finished-at="2021-04-29T23:36:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterEmail -->
+        <test-method status="PASS" signature="personalInfoPage()[pri:3, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="personalInfoPage" duration-ms="16" started-at="2021-04-29T23:36:19 IST" finished-at="2021-04-29T23:36:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalInfoPage -->
+        <test-method status="PASS" signature="custinfo()[pri:4, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="custinfo" duration-ms="4878" started-at="2021-04-29T23:36:19 IST" finished-at="2021-04-29T23:36:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- custinfo -->
+        <test-method status="PASS" signature="clkRegBtn()[pri:5, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="clkRegBtn" duration-ms="3286" started-at="2021-04-29T23:36:23 IST" finished-at="2021-04-29T23:36:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clkRegBtn -->
+        <test-method status="PASS" signature="myAccPage()[pri:6, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="myAccPage" duration-ms="295" started-at="2021-04-29T23:36:27 IST" finished-at="2021-04-29T23:36:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccPage -->
+        <test-method status="PASS" signature="logoutAndLogin()[pri:7, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="logoutAndLogin" duration-ms="7627" started-at="2021-04-29T23:36:27 IST" finished-at="2021-04-29T23:36:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAndLogin -->
+        <test-method status="PASS" signature="addProdToCart()[pri:8, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="addProdToCart" duration-ms="13364" started-at="2021-04-29T23:36:35 IST" finished-at="2021-04-29T23:36:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProdToCart -->
+        <test-method status="PASS" signature="chkOutPage()[pri:9, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="chkOutPage" duration-ms="22272" started-at="2021-04-29T23:36:48 IST" finished-at="2021-04-29T23:37:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkOutPage -->
+        <test-method status="PASS" signature="paymentPage()[pri:10, instance:stepdefinitions.TasksStepDefinition@6f195bc3]" name="paymentPage" duration-ms="561" started-at="2021-04-29T23:37:10 IST" finished-at="2021-04-29T23:37:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentPage -->
+      </class> <!-- stepdefinitions.TasksStepDefinition -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
